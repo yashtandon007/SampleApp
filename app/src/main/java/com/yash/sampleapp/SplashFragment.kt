@@ -25,7 +25,8 @@ class SplashFragment : Fragment() {
     override fun onStart() {
         super.onStart()
             Handler().postDelayed(Runnable {
-                findNavController().navigate(R.id.action_splashFragment_to_dashboardFrag)
+                val action = SplashFragmentDirections.actionSplashFragmentToNavDashboard()
+                findNavController().navigate(action)
             },4000)
 
     }

@@ -6,6 +6,16 @@
         <entry key="..\:/personal/SampleApp/app/src/main/res/layout/activity_main.xml" value="0.14895833333333333" />
         <entry key="..\:/personal/SampleApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.14895833333333333" />
         <entry key="..\:/personal/SampleApp/app/src/main/res/layout/fragment_splash.xml" value="0.14895833333333333" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/debug/res/drawable-anydpi/icon_history.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/debug/res/drawable-anydpi/icon_history_unseleted.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/debug/res/drawable-anydpi/icon_home.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/debug/res/drawable-anydpi/icon_home_unseleted.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/drawable/icon_history_selector.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/drawable/icon_home_selector.xml" value="0.109" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/layout/fragment_dashboard.xml" value="0.14895833333333333" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/layout/fragment_history.xml" value="0.14895833333333333" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/layout/fragment_home.xml" value="0.14895833333333333" />
+        <entry key="..\:/personal/SampleApp/dashboard/src/main/res/menu/bottom_navigation_menu.xml" value="0.14895833333333333" />
       </map>
     </option>
   </component>
